@@ -43,5 +43,5 @@ CÓMO EJECUTAR LA APLICACIÓN
 [2] Descargar códigos fuentes: ibex.py, datos.r
 
 Ejecutar siempre en este orden:
-i) file1: ibex.py --> scrapping en la web www.bolsamadrid.es
-ii) file2: datos.r --> muestreo de datos
+[i] file1: ibex.py --> scrapping en la web www.bolsamadrid.es
+[ii] file2: datos.r --> muestreo de datos
