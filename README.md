@@ -41,12 +41,12 @@ Copia y pega tal cual el código en ficheros separados y monta tu scrapper,
 
 CÓMO EJECUTAR LA APLICACIÓN
 ----------------------------
-[1] Descargar pdf adjunto con instrucciones extendidas: scrapthebank.pdf
+a) Descargar pdf adjunto con instrucciones extendidas: scrapthebank.pdf
 
-[2] Descargar códigos fuentes: ibex.py, datos.r
+b) Descargar códigos fuentes: ibex.py, datos.r
 
 Ejecutar siempre en este orden:
 
-[i] file1: ibex.py --> scrapping en la web www.bolsamadrid.es
+[1] file1: ibex.py --> scrapping en la web www.bolsamadrid.es
 
-[ii] file2: datos.r --> muestreo de datos
+[2] file2: datos.r --> muestreo de datos
