@@ -9,8 +9,11 @@ SCRAP THE BANK — UN CASO DE USO es el embrión de un proyecto más ambicioso e
 ¿Necesitas ayuda?
 
 No dudes en contactar con nosotros:
+
 d.merinodel@gmail.com
+
 pdrmerinodlg@gmail.com
+
 meet.google.com/qcy-fxry-tcm
 
 
