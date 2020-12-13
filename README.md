@@ -1,14 +1,14 @@
 # SCRAPIBEX
 Scrap The Bank (IBEX35)
 
-SCRAP THE BANK [UN CASO DE USO]
+SCRAP THE BANK [AN USE CASE]
 -------------------------------
 
-SCRAP THE BANK — UN CASO DE USO es el embrión de un proyecto más ambicioso en el cual se está trabajando actualmente. Siéntete libre de coger prestado el código que aquí se facilita pues este software se distribuye bajo licencia GNU GPL. 
+SCRAP THE BANK — "AN USE CASE"  we can consider it as the master seed of an ambitious project in wich we are working on. Feel free to download cause is totaly free code, we distributed under GNU GPL License.
 
-¿Necesitas ayuda?
+¿Need help?
 
-No dudes en contactar con nosotros:
+Contact us:
 
 d.merinodel@gmail.com
 
@@ -16,17 +16,22 @@ pdrmerinodlg@gmail.com
 
 meet.google.com/qcy-fxry-tcm
 
+Don't hessitate !
 
-El proyecto embrión
+
+The Seed Project
 -------------------
-Scrap The Bank consiste en el desarrollo de un rastreador  programado en python que se conecta a la web de la Bolsa de Madrid y extrae los datos del principal índice bursátil español, el IBEX 35.
-
-La información extraída se almacena en una base de datos NoSQL montada con MongoDB y el monitoreo del índice bursátil se controla con un script desarrollado en R (lenguaje desarrollado inicialmente por Robert Gentleman y Ross Ihaka del Departamento de Estadística de la Universidad de Auckland)
 
 
-¿Quieres ampliar el proyecto o tal vez desarrollar uno similar desde cero, necesitas más información? 
+Scrap The Bank is a crawler developed in pyhton.
+
+The script connect to www.bolsamadrid.es and get data from IBEX35, then stock in a NoSQL Database (MongoDB) and monitorize de Stock Index (IBEX35) via R Script.
+
+
+
+Do you want to full fill the Project or even create a new one? Do you need extra information?
 --------------------------------------------------------------------------------------------------------
-Estamos a su entera disposición, no dudes en contactar con nosotros:
+We are at your disposal, contac us in:
 
 d.merinodel@gmail.com
 
@@ -35,21 +40,21 @@ pdrmerinodlg@gmail.com
 meet.google.com/qcy-fxry-tcm
 
 
-CÓDIGO FUENTE
+SOURCE CODE
 ----------------
 
-Copia y pega tal cual el código en ficheros separados y monta tu scrapper, 
+Copy an paste the sources separetly and build your scrapper,
 
-¡ disfruta del proceso !
+enjoy the process !
 
-CÓMO EJECUTAR LA APLICACIÓN
+
+HOW TO RUN THE APPLICATION
 ----------------------------
-a) Descargar pdf adjunto con instrucciones extendidas: scrapthebank.pdf
 
-b) Descargar códigos fuentes: ibex.py, datos.r
+a) Dowload the source code: ibex.py, datos.r
 
-Ejecutar siempre en este orden:
+Steps to run the crawler:
 
-[1] file1: ibex.py --> scrapping en la web www.bolsamadrid.es
+[1] file1: ibex.py --> scrapping  www.bolsamadrid.es
 
-[2] file2: datos.r --> muestreo de datos
+[2] file2: datos.r --> data sampling
