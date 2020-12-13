@@ -24,8 +24,11 @@ La información extraída se almacena en una base de datos NoSQL montada con Mon
 ¿Quieres ampliar el proyecto o tal vez desarrollar uno similar desde cero, necesitas más información? 
 --------------------------------------------------------------------------------------------------------
 Estamos a su entera disposición, no dudes en contactar con nosotros:
+
 d.merinodel@gmail.com
+
 pdrmerinodlg@gmail.com
+
 meet.google.com/qcy-fxry-tcm
 
 
@@ -43,5 +46,7 @@ CÓMO EJECUTAR LA APLICACIÓN
 [2] Descargar códigos fuentes: ibex.py, datos.r
 
 Ejecutar siempre en este orden:
+
 [i] file1: ibex.py --> scrapping en la web www.bolsamadrid.es
+
 [ii] file2: datos.r --> muestreo de datos
